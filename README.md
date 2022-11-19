@@ -1,8 +1,8 @@
 # IBM-Project-11056-1659257732
 Fertilizers Recommendation System For Disease Prediction
-DATASET LINK
-https://drive.google.com/file/d/1fxs7ptI6zh7NTbCOZARKZ7AmYKjnprrY/view?usp=sharing
-
-
-Anjana - contributed to empathy map and problem statement 
-Jenie-contributed to Empathy map and problem statement
+TEAM ID PNT2022TMID00086
+TEAM MEMBERS
+Anjana V 
+Jenie Joseph
+Karthiga 
+Kiruthika
